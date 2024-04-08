@@ -1,0 +1,32 @@
+.all-authors {
+    width: 100%;
+    max-width: 600px;
+    margin:0 auto;
+    border-collapse: collapse;
+    border-radius: 10px;
+    overflow: hidden;
+}
+  
+.all-authors th, .all-authors td {
+    border: 1px solid #dddddd;
+    padding: 8px;
+}
+
+.all-authors tr:hover {
+    background-color: #f0f0f0;
+}
+  
+.all-authors th {
+    background-color: #f2f2f2;
+}
+
+.all-authors-title {
+    text-align: center;
+}
+
+.all-authors-container {
+    padding-left: 75px;
+    padding-right: 75px;
+    padding-bottom: 75px;
+    text-align: center;
+}

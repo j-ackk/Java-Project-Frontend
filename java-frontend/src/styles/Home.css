@@ -1,0 +1,15 @@
+.home-title {
+    text-align: center;
+    text-shadow: 4px 4px 4px rgba(0, 0, 0, 0.1); 
+}
+
+.home-description {
+    text-align: center;
+    text-shadow: 4px 4px 4px rgba(0, 0, 0, 0.1);
+}
+
+.home-list {
+    text-align: center;
+    padding: 0;
+    text-shadow: 4px 4px 4px rgba(0, 0, 0, 0.1);
+}

@@ -1,0 +1,45 @@
+.add-author-form-container {
+    text-align: center;
+    margin-top: 20px;
+}
+  
+.add-author-form {
+    display: inline-block;
+    padding: 20px;
+    border-radius: 10px;
+    border: 1px solid #dddddd;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+  
+.add-author-title {
+    text-align: center;
+    text-shadow: 4px 4px 4px rgba(0, 0, 0, 0.1); 
+}
+  
+.add-author-form label {
+    display: block;
+    margin-bottom: 10px;
+}
+  
+.add-author-form input {
+    width: calc(100% - 16px); /* Adjust input width */
+  padding: 8px;
+  border-radius: 5px;
+  border: 1px solid #cccccc;
+  margin-bottom: 15px; /* Add space between inputs */
+  margin-right: auto; /* Center input horizontally */
+  margin-left: auto; /* Center input horizontally */
+}
+  
+.add-author-form button {
+    padding: 10px 20px;
+    background-color: #007bff;
+    color: #ffffff;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+  
+.add-author-form button:hover {
+    background-color: #0056b3;
+}

@@ -1,0 +1,25 @@
+.navbar {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 80px;
+    background-color: #f2f2f2;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.15);
+  }
+  
+  .navbar h3 {
+    margin: 0;
+    padding: 0 10px;
+  }
+  
+  .navbar h3 a {
+    text-decoration: none;
+    color: black;
+    transition: color 0.3s cubic-bezier(0.4, 0, 0.2, 1), font-size 0.3s cubic-bezier(0.4, 0, 0.2, 1);
+  }
+
+  .navbar h3 a:hover {
+    color: rgb(87, 87, 179);
+    font-size: 1.1em; 
+  }
+  
